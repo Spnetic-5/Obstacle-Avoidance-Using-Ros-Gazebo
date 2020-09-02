@@ -6,4 +6,4 @@
 ## 2. Spawning URDF model in Gazebo:
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/SpawnModelinGazebo.png)
 ## 3.Simulating the designed robot in Gazebo:
-![]
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/gazebo_simulation.gif)
