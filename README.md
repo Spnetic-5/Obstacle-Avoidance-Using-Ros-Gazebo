@@ -67,7 +67,7 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ### GIF
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/oa.gif)
 ### Video
-[Video](https://youtu.be/btZGbhEyh00)
+[Obstacle Avoidance](https://youtu.be/btZGbhEyh00)
 
 
 ## Future Work
