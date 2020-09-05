@@ -8,4 +8,4 @@
 ## 3. Simulating the designed robot in Gazebo:
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gazebo_simulation.gif)
 ## 4. Adding Gazebo Laser Sensor Plugin to detect Obstacles:
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/LaserSensor.gif)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/LaserSensorSimulation.gif)
