@@ -59,7 +59,7 @@ This will load the dd robot in the gazebo environment at origin.
 * [Gazebo](http://wiki.ros.org/gazebo_ros_pkgs)
 
 ### Installation
-1. Clone the repo
+Clone the repo
 ```sh
 git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.git
 ```
