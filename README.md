@@ -1,6 +1,5 @@
 # Obstacle-Avoidance-Using-Ros-Gazebo
 _Obstacle avoiding Differential drive bot using ROS and Gazebo.  The robot design and other requirements can be found in this [PDF](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/ProblemStatement.pdf)._ 
-Reference taken for this project was [this](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1).
 
 ## Table of Contents
 
@@ -10,7 +9,6 @@ Reference taken for this project was [this](https://www.theconstructsim.com/ros-
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Results and Demo](#results-and-demo)
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
@@ -47,12 +45,6 @@ Technologies you used for this project.
         |    └── world02.world                       # Environment 2
         ├── launch 
             └── world.launch                         # For launching Gazebo world 
-    
-    
-## Prerequisites  
-
-* [ROS](http://wiki.ros.org/kinetic)  
-* [Gazebo](http://wiki.ros.org/gazebo_ros_pkgs)
 
 ## Getting Started
 1. Clone this respository.
@@ -62,8 +54,24 @@ Technologies you used for this project.
 This will load the dd robot in the gazebo environment at origin.  
 4. In another terminal run `rosrun motion_plan OA.py`. This will start the robot and obstacle avoidance algorithm.
 
+## Prerequisites  
+* [ROS](http://wiki.ros.org/kinetic)  
+* [Gazebo](http://wiki.ros.org/gazebo_ros_pkgs)
 
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
+## Troubleshooting
+* Common errors while configuring the project
 
+## Contributors
+* [Saurabh Suresh Powar](https://github.com/Git-Saurabh50000)
+
+## Acknowledgements and Resources
+* [SRA VJTI](http://sra.vjti.info/)
+* Refered [this](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1) for achieving this.
 
 ## License
 
