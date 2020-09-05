@@ -1,11 +1,11 @@
 # Obstacle-Avoidance-Using-Ros-Gazebo
 
 ## 1. Creating a URDF model of the differential drive robot:
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/obstacle-avoidance-using-ros-and-gazebo.png)
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/dd_robot_urdf.png)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/obstacle-avoidance-using-ros-and-gazebo.png)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/dd_robot_urdf.png)
 ## 2. Spawning URDF model in Gazebo:
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/SpawnModelinGazebo.png)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/SpawnModelinGazebo.png)
 ## 3. Simulating the designed robot in Gazebo:
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/gazebo_simulation.gif)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gazebo_simulation.gif)
 ## 4. Adding Gazebo Laser Sensor Plugin to detect Obstacles:
-![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/LaserSensor.gif)
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/LaserSensor.gif)
