@@ -15,7 +15,7 @@
             </collision>
             <visual name="${name}_visual">
               <origin rpy="0 1.5707 1.5707" xyz="0 0 0"/>
-              <geometry>
+              <geometry>  
                 <cylinder length="0.04" radius="0.1"/>
               </geometry>
             </visual>
@@ -28,7 +28,7 @@
         <child link="${child}"/>
         <parent link="link_chassis"/>
         <axis rpy="0 0 0" xyz="0 1 0"/>
-        <limit effort="10000" velocity="1000"/>
+        <!--limit effort="10000" velocity="1000"/-->
         <joint_properties damping="1.0" friction="1.0"/>
       </joint>
     </xacro:macro>
@@ -37,5 +37,11 @@
       <inertia  ixx="${mass*(3*r*r+l*l)/12}" ixy = "0" ixz = "0"
                 iyy="${mass*(3*r*r+l*l)/12}" iyz = "0"
                 izz="${mass*(r*r)/2}" />
+    </xacro:macro>
+
+    <xacro:macro name="box_inertia" params="mass w h d">
+      <inertia  ixx="${mass*(h*h+d*d)/12}" ixy = "0" ixz = "0"
+                iyy="${mass*(w*w+d*d)/12}" iyz = "0"
+                izz="${mass*(w*w+h+h)/12}" />
     </xacro:macro>
 </robot>
