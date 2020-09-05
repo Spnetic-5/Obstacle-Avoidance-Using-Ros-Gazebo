@@ -1,5 +1,6 @@
 # Obstacle-Avoidance-Using-Ros-Gazebo
-_Building a differential drive robot which can avoid obstacles. The robot design and other requirements can be found in this [PDF]
+Obstacle avoiding Differential drive bot using ROS and Gazebo.
+The robot design and other requirements can be found in this [PDF]
 
 ## 1. Creating a URDF model of the differential drive robot:
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/obstacle-avoidance-using-ros-and-gazebo.png)
