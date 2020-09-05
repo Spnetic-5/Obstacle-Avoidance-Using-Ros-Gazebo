@@ -8,12 +8,12 @@ Reference taken for this project was [this](https://www.theconstructsim.com/ros-
 * [Gazebo](http://wiki.ros.org/gazebo_ros_pkgs)
 
 ## Getting Started
-
-1. Launch your terminal and run the command `roslaunch my_worlds <world_name>.launch`. 
+1. Clone this respository.
+2. Launch your terminal and run the command `roslaunch my_worlds <world_name>.launch`. 
    This will launch the gazebo enviroment.
-2. In another terminal, run the command `roslaunch my_robot_urdf robot.launch`. 
+3. In another terminal, run the command `roslaunch my_robot_urdf robot.launch`. 
 This will load the dd robot in the gazebo environment at origin.  
-3. In another terminal run `rosrun motion_plan OA.py`. This will start the robot and obstacle avoidance algorithm.
+4. In another terminal run `rosrun motion_plan OA.py`. This will start the robot and obstacle avoidance algorithm.
 
 
 
