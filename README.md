@@ -67,7 +67,7 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 * Common errors while configuring the project
 
 ## Contributors
-* [Saurabh Suresh Powar](https://github.com/Git-Saurabh50000)
+* [Saurabh Suresh Powar](https://github.com/Git-Saurabh5)
 
 ## Acknowledgements and Resources
 * [SRA VJTI](http://sra.vjti.info/)
