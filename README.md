@@ -19,7 +19,7 @@ _Obstacle avoiding Differential drive bot using ROS and Gazebo.  The robot desig
 ## About The Project
 
 ### Tech Stack
-Technologies you used for this project.
+Technologies used for this project:
 * [ROS](https://www.ros.org/)  
 * [Gazebo](http://gazebosim.org/)  
 
