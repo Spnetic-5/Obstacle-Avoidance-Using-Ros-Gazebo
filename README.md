@@ -68,6 +68,12 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/oa.gif)
 ![**Video**](https://www.youtube.com/watch?v=NyEgB2QwrYA) 
 
+## Future Work
+* Developments for project
+- [ ] Motion Planning Algorithm
+- [ ] Path Planning Algorithm
+
+
 ## Troubleshooting
 * Common errors while configuring the project
 
