@@ -60,7 +60,7 @@
   <link name="sensor_laser">
     <inertial>
       <origin xyz="0 0 0" rpy="0 0 0" />
-      <mass value="1" />
+      <mass value="3" />
       <xacro:box_inertia mass="1" w="0.15" h="0.15" d="0.05" />
     </inertial>
     
