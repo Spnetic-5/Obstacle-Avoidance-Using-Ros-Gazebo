@@ -28,8 +28,8 @@ Technologies used for this project:
     ├── my_robot_urdf                                # package containing urdf and launch files.            
     |    ├── urdf                                    
     |    |   ├── dd_robot.gazebo                     # contains all gazebo plugins.
-    |    |   ├── dd_urdf.xacro                       # contains main urdf model of dd robot.
-    |    |   ├── material.xacro                      # contains colours for dd robot.
+    |    |   ├── dd_urdf.xacro                       # contains the main urdf model of dd robot.
+    |    |   ├── material.xacro                      # contains colors for dd robot.
     |    |   └── wheels.xacro                        # contains wheels
     |    └── launch
     |        ├── rviz.launch                         # For launching bot in Rviz(ROS debugging tool).
@@ -47,11 +47,11 @@ Technologies used for this project:
             └── world.launch                         # For launching Gazebo world 
 
 ## Getting Started
-1. Clone this respository.
+1. Clone this repository.
 2. Launch your terminal and run the command `roslaunch my_worlds <world_name>.launch`. 
-   This will launch the gazebo enviroment.
+   This will launch the gazebo environment.
 3. In another terminal, run the command `roslaunch my_robot_urdf robot.launch`. 
-This will load the dd robot in the gazebo environment at origin.  
+This will load the dd robot in the gazebo environment at the origin.  
 4. In another terminal run `rosrun motion_plan OA.py`. This will start the robot and obstacle avoidance algorithm.
 
 ## Prerequisites  
