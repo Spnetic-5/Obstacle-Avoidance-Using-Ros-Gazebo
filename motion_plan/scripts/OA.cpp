@@ -1,7 +1,8 @@
 #include "ros/ros.h"
+#include "std_msgs/String.h"
 #include "sensor_msgs/LaserScan.h"
-#include <geometry_msgs/Twist.h>
-#include <stdio.h>
+#include "geometry_msgs/Twist.h"
+#include <iostream>
 using namespace std; 
 
 float sensors;
@@ -20,7 +21,6 @@ void callback_laser(const sensor_msgs::LaserScan laser)
 				sensor_angle = j/2;
 			}
            }
-motion(sensors, sensor_angle)
 
 }
 
