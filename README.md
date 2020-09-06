@@ -69,12 +69,9 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ### Video
 [Obstacle Avoidance](https://youtu.be/btZGbhEyh00)
 
-
 ## Future Work
-* Developments for project
 - [ ] Motion Planning Algorithm
 - [ ] Path Planning Algorithm
-
 
 ## Troubleshooting
 * Common errors while configuring the project
@@ -83,8 +80,11 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 * [Saurabh Suresh Powar](https://github.com/Git-Saurabh5)
 
 ## Acknowledgements and Resources
-* [SRA VJTI](http://sra.vjti.info/)
-* Refered [this](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1) for achieving this.
+* [SRA VJTI](https://github.com/SRA-VJTI)
+* Reference for achieving this :
+   * [The Construct](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1) 
+   * [ROS wiki](http://wiki.ros.org/ROS/Tutorials)
+   * [Gazebo](http://gazebosim.org/tutorials)
 
 ## License
 
