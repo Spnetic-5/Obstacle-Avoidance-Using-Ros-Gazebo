@@ -82,9 +82,9 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ## Acknowledgements and Resources
 * [SRA VJTI](https://github.com/SRA-VJTI)
 * Reference for achieving this :
-   * [The Construct](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1) 
    * [ROS wiki](http://wiki.ros.org/ROS/Tutorials)
    * [Gazebo](http://gazebosim.org/tutorials)
+   * [The Construct](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1)
 
 ## License
 
