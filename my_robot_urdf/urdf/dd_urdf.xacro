@@ -1,6 +1,7 @@
+<!-- These first two lines make valid Xacro file -->
 <?xml version="1.0" ?>
 <robot name="dd_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
-  
+  <!-- Including materials, wheels, Gazebo plugins -->
   <xacro:include filename="$(find my_robot_urdf)/urdf/materials.xacro" />
   <xacro:include filename="$(find my_robot_urdf)/urdf/dd_robot.gazebo" />
   <xacro:include filename="$(find my_robot_urdf)/urdf/wheels.xacro" />
