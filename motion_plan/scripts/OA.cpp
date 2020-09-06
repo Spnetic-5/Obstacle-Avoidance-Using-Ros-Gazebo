@@ -20,6 +20,7 @@ void callback_laser(const sensor_msgs::LaserScan laser)
 				sensor_angle = j/2;
 			}
            }
+motion(sensors, sensor_angle)
 
 }
 
