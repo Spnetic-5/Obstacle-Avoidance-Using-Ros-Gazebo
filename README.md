@@ -38,6 +38,7 @@ Technologies used for this project:
     ├── motion_plan                                  
     |   ├── OA.py                                    # Obstacle Avoidance algorithm.
     |   └── reading_laser.py                         # Getting laser sensor readings.
+    |   └── go-to-point.py                           # Motion Planning Algorithm
     |
     └── my_worlds                                    # Environment for Simulation of dd bot in Gazebo 
         ├── worlds                  
