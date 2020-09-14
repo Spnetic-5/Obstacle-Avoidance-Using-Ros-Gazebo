@@ -54,6 +54,7 @@ Technologies used for this project:
 3. In another terminal, run the command `roslaunch my_robot_urdf robot.launch`. 
 This will load the dd robot in the gazebo environment at the origin.  
 4. In another terminal run `rosrun motion_plan OA.py`. This will start the robot and obstacle avoidance algorithm.
+5. In another terminal `rosrun motion_plan go-to-point.py`. This will start the robot and motion planning algorithm.
 
 ## Prerequisites  
 * [ROS](http://wiki.ros.org/kinetic)  
