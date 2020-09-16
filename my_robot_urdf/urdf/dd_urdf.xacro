@@ -1,4 +1,4 @@
-<!-- These first two lines make valid Xacro file -->
+
 <?xml version="1.0" ?>
 <robot name="dd_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
   <!-- Including materials, wheels, Gazebo plugins -->
