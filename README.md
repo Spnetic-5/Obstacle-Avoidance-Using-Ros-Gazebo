@@ -67,11 +67,12 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ```
 ## Results and Demo
 ## GIF
-### Obstacle Avoidance
+### Obstacle Avoidance:
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/oa.gif)
 ### Moving to Desired co-ordinates:
 ![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/go-to-point.gif)
-
+### Gmapping:
+![](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gmapping.gif)
 ### Video
 * [Obstacle Avoidance](https://youtu.be/btZGbhEyh00)
 * [Motion Planning](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gtgNavigation.mp4)
