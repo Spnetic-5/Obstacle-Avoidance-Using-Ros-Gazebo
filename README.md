@@ -33,6 +33,7 @@ Technologies used for this project:
     |    |   └── wheels.xacro                        # contains wheels
     |    └── launch
     |        ├── rviz.launch                         # For launching bot in Rviz(ROS debugging tool).
+    |        ├── gmaapping.launch
     |        └── robot.launch                        # For spawning bot in Gazebo(Simulation).
     |
     ├── motion_plan                                  
@@ -48,7 +49,7 @@ Technologies used for this project:
             └── world.launch                         # For launching Gazebo world 
 
 ## Getting Started
-1. Clone this repository.
+1. Clone this repository in `cd catkin_ws/src` folder and run `catkin_make`.
 2. Launch your terminal and run the command `roslaunch my_worlds <world_name>.launch`. 
    This will launch the gazebo environment.
 3. In another terminal, run the command `roslaunch my_robot_urdf robot.launch`. 
@@ -79,8 +80,8 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 
 ## Future Work
 - [X] Motion Planning Algorithm
+- [X] G-Mapping Algorithm
 - [ ] Path Planning Algorithm
-- [ ] G-Mapping Algorithm
 
 ## Troubleshooting
 * Common errors while configuring the project
