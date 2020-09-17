@@ -33,7 +33,7 @@ Technologies used for this project:
     |    |   └── wheels.xacro                        # contains wheels
     |    └── launch
     |        ├── rviz.launch                         # For launching bot in Rviz(ROS debugging tool).
-    |        ├── gmaapping.launch
+    |        ├── gmapping.launch
     |        └── robot.launch                        # For spawning bot in Gazebo(Simulation).
     |
     ├── motion_plan                                  
