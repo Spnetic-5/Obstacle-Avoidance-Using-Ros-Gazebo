@@ -76,7 +76,7 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 ![](https://github.com/Spnetic-5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gmapping.gif)
 ### Video
 * [Obstacle Avoidance](https://youtu.be/btZGbhEyh00)
-* [Motion Planning](https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gtgNavigation.mp4)
+* [Motion Planning](https://github.com/Spnetic-5/Obstacle-Avoidance-Using-Ros-Gazebo/blob/master/Visuals/gtgNavigation.mp4)
 
 ## Future Work
 - [X] Motion Planning Algorithm
@@ -87,7 +87,7 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 * Common errors while configuring the project
 
 ## Contributors
-* [Saurabh Suresh Powar](https://github.com/Git-Saurabh5)
+* [Saurabh Suresh Powar](https://github.com/Spnetic-5)
 
 ## Acknowledgements and Resources
 * [SRA VJTI](https://github.com/SRA-VJTI)
