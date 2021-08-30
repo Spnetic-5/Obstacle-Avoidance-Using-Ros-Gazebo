@@ -91,6 +91,7 @@ git clone https://github.com/Git-Saurabh5/Obstacle-Avoidance-Using-Ros-Gazebo.gi
 
 ## Acknowledgements and Resources
 * [SRA VJTI](https://github.com/SRA-VJTI)
+* [OG](https://github.com/udit7395/Obstacle-Avoidance-Using-ROS-And-Gazebo)
 * Reference for achieving this :
    * [ROS wiki](http://wiki.ros.org/ROS/Tutorials)
    * [Gazebo](http://gazebosim.org/tutorials)
